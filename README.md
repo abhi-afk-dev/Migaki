@@ -350,7 +350,7 @@ All ASI-1 conversations that shaped this submission are documented in `/docs/asi
 - [x] Impact assessment
 - [x] ASI-1 conversation logs
 - [x] GitHub repository structure
-- [ ] Devpost submission form
+- [x] Devpost submission form
 
 ---
 
