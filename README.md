@@ -357,10 +357,9 @@ All ASI-1 conversations that shaped this submission are documented in `/docs/asi
 ## 🔗 References
 
 - Solid Waste Management Rules 2026, Ministry of Environment, Forest and Climate Change, Government of India
-- ASI-1 API Documentation — https://asi1.ai/dashboard/api-keys
+- ASI-1 API Documentation — https://docs.asi1.ai/api-reference/llm/chat-completion
 - Swachh Bharat Mission — https://swachhbharatmission.gov.in
 - India Waste Management Market Report 2025
-- BMC Grievance Portal — grievances.mcgm@mcgm.gov.in
 
 ---
 
