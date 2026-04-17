@@ -13,9 +13,6 @@ India generates over **62 million tonnes of waste every year.** Most of it isn't
 
 At its core, Migaki believes one thing: **nothing is truly waste — it's just something whose next chapter hasn't been written yet.**
 
-> Built for **Ideathon 2026** · Track: Tech Z · Categories: Lifehacks + Social Good
-> Powered by **ASI-1** — the brain of every feature in this app.
-
 ---
 
 ## 🧩 Problem Statement
@@ -52,35 +49,31 @@ Migaki is built around **three screens, one philosophy.**
 > *The community leads. Migaki augments. Canvas becomes a living space.*
 
 ### 🏠 Feature 1: Home Upcycle
-Users snap a photo or describe any waste item lying at home. ASI-1 instantly generates 3 creative, practical DIY projects tailored to that specific item — complete with step-by-step instructions, materials list, difficulty rating, time estimate, and a visual preview of the finished product.
+Users snap a photo or describe any waste item lying at home. AI instantly generates 3 creative, practical DIY projects tailored to that specific item — complete with step-by-step instructions, materials list, difficulty rating, time estimate, and a visual preview of the finished product.
 
 A torn saree becomes wall art. A broken ladder becomes a bookshelf. A pile of old bottles becomes a garden.
 
 ### 🗺️ Feature 2: Smart Disposal
-For items that truly can't be reused, ASI-1 classifies the waste type and guides users to the nearest recycling centres, correct disposal methods, and what materials should never be mixed. If home disposal isn't possible, Google Maps surfaces the nearest facility. Making responsible disposal effortless.
+For items that truly can't be reused, AI classifies the waste type and guides users to the nearest recycling centres, correct disposal methods, and what materials should never be mixed. If home disposal isn't possible, Google Maps surfaces the nearest facility. Making responsible disposal effortless.
 
 ### 🏘️ Feature 3: Community Canvas + Civic Complaint
-Neighbours collectively upcycle large waste — drums, tyres, wooden crates — into decorated public dustbins and neighbourhood art installations. ASI-1 generates design previews, the community votes on their favourite (24hr window), and the winning concept gets a full step-by-step build guide. Finished projects are documented with before/after photos and shared via an auto-generated X post.
+Neighbours collectively upcycle large waste — drums, tyres, wooden crates — into decorated public dustbins and neighbourhood art installations. AI generates design previews, the community votes on their favourite (24hr window), and the winning concept gets a full step-by-step build guide. Finished projects are documented with before/after photos and shared via an auto-generated X post.
 
-When things go wrong — illegal dumping, overflowing sites, broken civic infrastructure — the **Civic Complaint Tool** (embedded inside the Community page) lets users report the problem. The community discusses and cosigns within 12 hours, then ASI-1 drafts a formal complaint letter citing the correct SWM Rules 2026 sections, addressed to the right municipal authority, and sends it via community email. Simultaneously, an X post applies public pressure.
+When things go wrong — illegal dumping, overflowing sites, broken civic infrastructure — the **Civic Complaint Tool** (embedded inside the Community page) lets users report the problem. The community discusses and cosigns within 12 hours, then AI drafts a formal complaint letter citing the correct SWM Rules 2026 sections, addressed to the right municipal authority, and sends it via community email. Simultaneously, an X post applies public pressure.
 
 **Migaki is where personal responsibility meets community pride.**
 
 ---
 
-## 🤖 ASI-1 Integration
+## 🤖 AI Integration
 
-ASI-1 is not a feature in Migaki. It is the **brain of the entire app.** Every screen, every output, every interaction runs through ASI-1.
+AI is not a feature in Migaki. It is the **brain of the entire app.** Every screen, every output, every interaction runs through AI.
 
-### API Details
-- **Endpoint:** `https://api.asi1.ai/v1/chat/completions`
-- **Model:** `asi1-mini`
-- **Image Generation:** ASI-1 native text-to-image (no separate API needed)
-- **Auth:** API key via `https://asi1.ai/dashboard/api-keys`
 
-### ASI-1 Role Per Feature
 
-| Feature | ASI-1 Input | ASI-1 Output |
+### AI Role Per Feature
+
+| Feature | AI Input | AI Output |
 |---------|-------------|--------------|
 | Home Upcycle | Waste photo/description + user constraints (skill, tools, time) | 3 DIY concepts, step-by-step guide, materials list, visual preview image |
 | Smart Disposal | Waste photo/description + user location | Waste classification, home disposal tips, nearest facility routing |
@@ -89,28 +82,28 @@ ASI-1 is not a feature in Migaki. It is the **brain of the entire app.** Every s
 
 ### Why ASI-1 Over Non-AI Solutions
 
-| Problem | Without AI | With ASI-1 |
+| Problem | Without AI | With AI |
 |---------|-----------|------------|
 | Upcycle ideas | Finite static database — limited materials, repetitive | Infinite creativity for ANY waste item, adapts to user constraints |
 | Waste classification | User must identify type manually | Auto-classification from photo |
 | Community design | Time-intensive workshops, needs design skills | Dozens of visual concepts generated in seconds |
 | Civic complaints | Generic templates, jurisdiction confusion | Jurisdiction-aware formal letters citing correct legal sections |
 
-### ASI-1 Unique Advantage
+### AI Unique Advantage
 > *"Reduces intimidation barrier to civic action."*
 
-The most powerful thing ASI-1 does in Migaki is not generate DIY ideas — it makes ordinary people feel capable of doing things they thought were beyond them. Writing a legal complaint to the BMC. Designing a public art installation. Creating something beautiful from garbage.
+The most powerful thing AI does in Migaki is not generate DIY ideas — it makes ordinary people feel capable of doing things they thought were beyond them. Writing a legal complaint to the BMC. Designing a public art installation. Creating something beautiful from garbage.
 
 ---
 
-## 🖼️ Sample ASI-1 Outputs
+## 🖼️ Sample AI Outputs
 
 ### Home Upcycle — Glass Bottle Terrarium
-*Generated live on ASI-1 during ideation*
+*Generated live on AI during ideation*
 
 **Input:** Old glass bottle
 
-**ASI-1 Output:** Glass Bottle Terrarium — *"Turn waste into a living ecosystem on your windowsill"*
+**AI Output:** Glass Bottle Terrarium — *"Turn waste into a living ecosystem on your windowsill"*
 - Materials: River stones, activated charcoal, potting soil, small plants
 - Difficulty: ⭐⭐ Beginner-friendly
 - Time: 30–45 minutes
@@ -121,11 +114,11 @@ The most powerful thing ASI-1 does in Migaki is not generate DIY ideas — it ma
 ---
 
 ### Community Canvas — Jungle Keeper Safari, Mumbai
-*Generated live on ASI-1 during ideation*
+*Generated live on AI during ideation*
 
 **Input:** 3 rusted steel drums, 2 discarded tyres, leftover paint — Lokhandwala Park, Mumbai
 
-**ASI-1 Output:** 3 design concepts generated → Community voted → Jungle Keeper Safari won
+**AI Output:** 3 design concepts generated → Community voted → Jungle Keeper Safari won
 
 - Lion 🦁, Elephant 🐘, Tiger 🐅 animal-faced dustbins
 - Total budget: ₹2,490
@@ -137,11 +130,11 @@ The most powerful thing ASI-1 does in Migaki is not generate DIY ideas — it ma
 ---
 
 ### Civic Complaint — Lokhandwala Park Illegal Dumping
-*Generated live on ASI-1 during ideation*
+*Generated live on AI during ideation*
 
 **Input:** Illegal dumping near Lokhandwala Park, Andheri West — 3 weeks, 47 resident cosignatories
 
-**ASI-1 Output:**
+**AI Output:**
 - Formal complaint addressed to BMC Ward R/South Senior Executive Officer (SWM)
 - Cited: SWM Rules 2026 Sections 3(2)(e), 4.1, 11, 12
 - 72-hour cleanup deadline with 4-stage escalation ladder
@@ -161,7 +154,7 @@ The most powerful thing ASI-1 does in Migaki is not generate DIY ideas — it ma
 | Database | Supabase |
 | Storage | Supabase Storage |
 | Auth | Google SSO + Apple SSO |
-| AI | ASI-1 API (asi1-mini) |
+| AI | Gemini/GPT API |
 | Maps | Google Maps API |
 | Email | Gmail API (community complaints) |
 | Social | X (Twitter) API |
@@ -172,14 +165,14 @@ The most powerful thing ASI-1 does in Migaki is not generate DIY ideas — it ma
 ```
 User input (photo/text)
 → System instructions (skill level, tools, style)
-→ ASI-1
+→ AI
 → [3 DIY options] + [Step-by-step guide] + [Visual preview image]
 ```
 
 **Smart Disposal Flow:**
 ```
 User input (waste item)
-→ ASI-1 (classifies + routes)
+→ AI (classifies + routes)
 → Home disposal options + tips
 → if can't dispose at home → Google Maps (nearest center)
 ```
@@ -188,19 +181,19 @@ User input (waste item)
 ```
 Multiple users post in feed (includes images)
 → @migaki prompted
-→ ASI-1 generates 2-3 design concepts
+→ AI generates 2-3 design concepts
 → Community votes (24hr window)
-→ ASI-1 finalises winning concept
+→ AI finalises winning concept
 → Step-by-step build guide generated
 → After completion: users post before/after
-→ ASI-1 auto-generates X post
+→ AI auto-generates X post
 ```
 
 **Civic Complaint Flow:**
 ```
 User reports problem in community feed
 → Community discusses & cosigns (12hr window)
-→ ASI-1 drafts formal complaint email + escalation pathway
+→ AI drafts formal complaint email + escalation pathway
 → Gmail API sends to municipal authority
 → X API posts for public pressure
 ```
@@ -210,13 +203,13 @@ User reports problem in community feed
 ## 📱 App Wireframes
 
 ### Screen 1 — Home (Upcycle)
-Chat-style interface. User sends image or text description. ASI-1 responds with 3 collapsible DIY option cards. Tap to expand — shows full guide and AI-generated visual preview.
+Chat-style interface. User sends image or text description. AI responds with 3 collapsible DIY option cards. Tap to expand — shows full guide and AI-generated visual preview.
 
 ### Screen 2 — Smart Disposal
-Same chat UI. ASI-1 responds with waste classification card + home disposal accordion. "Can't dispose at home?" red button triggers Maps response card.
+Same chat UI. AI responds with waste classification card + home disposal accordion. "Can't dispose at home?" red button triggers Maps response card.
 
 ### Screen 3 — Community Canvas + Civic Complaint
-Neighbourhood feed with chat-style posts. @migaki button and Report Problem button always visible at bottom. ASI-1 design concept cards with heart-based voting. Civic complaint triggers as modal from Report Problem button.
+Neighbourhood feed with chat-style posts. @migaki button and Report Problem button always visible at bottom. AI design concept cards with heart-based voting. Civic complaint triggers as modal from Report Problem button.
 
 **Navigation:** Floating Action Button (FAB) — single circle that expands into 3 navigation options on tap. Consistent position across all screens.
 
@@ -226,13 +219,13 @@ Neighbourhood feed with chat-style posts. @migaki button and Report Problem butt
 
 ### Phase 1 — Foundation (Weeks 1–2)
 - Project setup: React Native + Django + Supabase
-- ASI-1 API integration and testing
+- AI API integration and testing
 - Basic chat UI framework
 - User authentication (Google/Apple SSO)
 
 ### Phase 2 — Home Upcycle MVP (Weeks 3–4)
 - Camera/text input for waste description
-- ASI-1 prompt engineering for DIY generation
+- AI prompt engineering for DIY generation
 - Image generation integration
 - Accordion output cards UI
 
@@ -294,7 +287,7 @@ Neighbourhood feed with chat-style posts. @migaki button and Report Problem butt
 | Challenge | Mitigation |
 |-----------|-----------|
 | Community adoption — getting first neighbourhoods onboard | Partner with RWAs, schools, and Swachh Bharat local coordinators for pilot launch |
-| ASI-1 output quality for regional languages | Prompt engineering in Hindi/regional languages tested early; fallback to English |
+| AI output quality for regional languages | Prompt engineering in Hindi/regional languages tested early; fallback to English |
 | Municipal authority responsiveness to AI-drafted complaints | Complaint format validated against actual BMC submission guidelines |
 | Solo developer scope | Phased roadmap — MVP focuses on Home Upcycle first, community features in Phase 4 |
 
@@ -302,7 +295,7 @@ Neighbourhood feed with chat-style posts. @migaki button and Report Problem butt
 
 ## 🔭 Future Scope
 
-- **Kabadiwala Integration** — connect users directly to local informal recyclers for items ASI-1 can't upcycle
+- **Kabadiwala Integration** — connect users directly to local informal recyclers for items AI can't upcycle
 - **Impact Dashboard** — neighbourhood-level metrics: waste diverted, projects completed, complaints resolved
 - **Multilingual ASI-1** — full Hindi, Marathi, Tamil, Telugu support
 - **School Programme** — dedicated classroom mode where students document upcycle projects
@@ -365,4 +358,4 @@ All ASI-1 conversations that shaped this submission are documented in `/docs/asi
 
 > *磨 Migaki — Every waste has a story worth finishing.*
 >
-> Built with ASI-1. Built for India. Built for the street outside your window.
+> Built for India. Built for the street outside your window.
